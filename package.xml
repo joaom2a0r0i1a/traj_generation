@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
 
-  <name>mrs_uav_trajectory_generation</name>
+  <name>trajectory_generation</name>
   <version>1.0.4</version>
   <description>UAV trajectory generation</description>
 
